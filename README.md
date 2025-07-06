@@ -2,6 +2,7 @@
 
 [![View on arXiv](https://img.shields.io/badge/arXiv-2506.13477-red)](https://arxiv.org/abs/2506.13477)
 
+[![Watch the video](https://img.youtube.com/vi/c1kzG0QLAeQ/0.jpg)](https://youtu.be/c1kzG0QLAeQ)
 
 
 
