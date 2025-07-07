@@ -12,4 +12,22 @@ renders a customizable Metahuman avatar (Unreal Engine) driven by this emotional
 is achieved using the Live Link plugin, and the system supports deployment in both desktop and VR environments.
 
 
+bn
 [![Watch the first video](https://img.youtube.com/vi/c1kzG0QLAeQ/0.jpg)](https://youtu.be/c1kzG0QLAeQ)
+
+gn
+[![Watch the first video](https://img.youtube.com/vi/m37s2LGMxEY/0.jpg)](https://youtu.be/m37s2LGMxEY)
+
+ba
+[![Watch the first video](https://img.youtube.com/vi/yDPRW7z9vgA/0.jpg)](https://youtu.be/yDPRW7z9vgA)
+
+gsh
+[![Watch the first video](https://img.youtube.com/vi/jgnOVcH5GnE/0.jpg)](https://youtu.be/jgnOVcH5GnE)
+
+ga
+[![Watch the first video](https://img.youtube.com/vi/z71hsrbcL_I/0.jpg)](https://youtu.be/z71hsrbcL_I)
+
+bsh
+
+[![Watch the first video](https://img.youtube.com/vi/rLX_293HqQA/0.jpg)](https://youtu.be/rLX_293HqQA)
+
