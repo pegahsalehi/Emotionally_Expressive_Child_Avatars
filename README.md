@@ -1,4 +1,4 @@
-# Emotionally_Expressive_Child_Avatars
+# Multimodal Integration Challenges in Emotionally Expressive Child Avatars for Training Applications
 
 [![View on arXiv](https://img.shields.io/badge/arXiv-2506.13477-red)](https://arxiv.org/abs/2506.13477)
 
