@@ -1,7 +1,7 @@
 # Multimodal Integration Challenges in Emotionally Expressive Child Avatars for Training Applications
 
 [![View on arXiv](https://img.shields.io/badge/arXiv-2506.13477-red)](https://arxiv.org/abs/2506.13477)
-
+[![View in Journal](https://img.shields.io/badge/Journal-NMI-blue)](https://journals.uio.no/NMI/article/view/12537) [![View on arXiv](https://img.shields.io/badge/arXiv-2506.13477-red)](https://arxiv.org/abs/2506.13477)
 
 ![Diagram](assets/dev-pipeline.png)
 ![Diagram](assets/arch.png)
