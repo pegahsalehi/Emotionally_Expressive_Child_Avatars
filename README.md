@@ -5,8 +5,6 @@
 
 ## Overview
 
->>>>>>> cb33ed2 (Update readme file)
-
 This repository contains research prototype assets and notebooks for an emotionally expressive child-avatar pipeline for training applications. The notebooks demonstrate a voice-driven interaction loop: capture speech from a microphone, transcribe it, generate a text response, synthesize speech audio, and stream that audio into NVIDIA Audio2Face so an avatar can speak with facial animation.
 
 The repository also includes architecture diagrams, USD avatar/stage assets, generated Audio2Face gRPC bindings, demo video links, and a questionnaire PDF used for avatar/video evaluation.
