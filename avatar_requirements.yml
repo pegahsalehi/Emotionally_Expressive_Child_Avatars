@@ -397,4 +397,3 @@ dependencies:
       - yarl==1.9.2
       - youtokentome==1.0.6
       - zipp==3.16.2
-prefix: /home/rt/anaconda3/envs/nemo_py_3.9
