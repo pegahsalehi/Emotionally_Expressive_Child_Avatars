@@ -196,7 +196,6 @@ Demo videos linked from the original README:
 | Joy | [Video 5](https://youtu.be/jgnOVcH5GnE) |
 | Angry | [Video 6](https://youtu.be/z71hsrbcL_I) |
 
-<div align="center">
 <table>
   <tr>
     <td>
