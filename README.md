@@ -196,42 +196,7 @@ Demo videos linked from the original README:
 | Joy | [Video 5](https://youtu.be/jgnOVcH5GnE) |
 | Angry | [Video 6](https://youtu.be/z71hsrbcL_I) |
 
-<table>
-  <tr>
-    <td>
-      <a href="https://youtu.be/c1kzG0QLAeQ">
-        <img src="https://img.youtube.com/vi/c1kzG0QLAeQ/0.jpg" alt="bn" width="200"/>
-      </a><br/><center><b>Sad</b></center>
-    </td>
-    <td>
-      <a href="https://youtu.be/rLX_293HqQA">
-        <img src="https://img.youtube.com/vi/rLX_293HqQA/0.jpg" alt="bsh" width="200"/>
-      </a><br/><center><b>Joy</b></center>
-    </td>
-    <td>
-      <a href="https://youtu.be/yDPRW7z9vgA">
-        <img src="https://img.youtube.com/vi/yDPRW7z9vgA/0.jpg" alt="ba" width="200"/>
-      </a><br/><center><b>Angry</b></center>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://youtu.be/m37s2LGMxEY">
-        <img src="https://img.youtube.com/vi/m37s2LGMxEY/0.jpg" alt="gn" width="200"/>
-      </a><br/><center><b>Sad</b></center>
-    </td>
-    <td>
-      <a href="https://youtu.be/jgnOVcH5GnE">
-        <img src="https://img.youtube.com/vi/jgnOVcH5GnE/0.jpg" alt="gsh" width="200"/>
-      </a><br/><center><b>Joy</b></center>
-    </td>
-    <td>
-      <a href="https://youtu.be/z71hsrbcL_I">
-        <img src="https://img.youtube.com/vi/z71hsrbcL_I/0.jpg" alt="ga" width="200"/>
-      </a><br/><center><b>Angry</b></center>
-    </td>
-  </tr>
-</table>
+<table> <tr> <td> <a href="https://youtu.be/c1kzG0QLAeQ"> <img src="https://img.youtube.com/vi/c1kzG0QLAeQ/0.jpg" alt="bn" width="200"/> </a><br/> <b>Sad</b> </td> <td> <a href="https://youtu.be/rLX_293HqQA"> <img src="https://img.youtube.com/vi/rLX_293HqQA/0.jpg" alt="bsh" width="200"/> </a><br/> <b>Joy</b> </td> <td> <a href="https://youtu.be/yDPRW7z9vgA"> <img src="https://img.youtube.com/vi/yDPRW7z9vgA/0.jpg" alt="ba" width="200"/> </a><br/> <b>Angry</b> </td> </tr> <tr> <td> <a href="https://youtu.be/m37s2LGMxEY"> <img src="https://img.youtube.com/vi/m37s2LGMxEY/0.jpg" alt="gn" width="200"/> </a><br/> <b>Sad</b> </td> <td> <a href="https://youtu.be/jgnOVcH5GnE"> <img src="https://img.youtube.com/vi/jgnOVcH5GnE/0.jpg" alt="gsh" width="200"/> </a><br/> <b>Joy</b> </td> <td> <a href="https://youtu.be/z71hsrbcL_I"> <img src="https://img.youtube.com/vi/z71hsrbcL_I/0.jpg" alt="ga" width="200"/> </a><br/> <b>Angry</b> </td> </tr> </table>
 
 ## Troubleshooting
 
